@@ -1,6 +1,6 @@
 # nonebot-plugin-set-title
 
-NoneBot2 群头衔管理插件，支持单用户设置和批量设置 QQ 群专属头衔。基于 Alconna 命令解析器优化，类型安全，跨平台兼容。
+NoneBot2 群头衔管理插件，支持单用户设置和批量设置 QQ 群专属头衔。
 
 ## 功能特性
 
